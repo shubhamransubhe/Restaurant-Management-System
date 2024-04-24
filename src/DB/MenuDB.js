@@ -18,12 +18,7 @@ export const  Menu= [
     {
       "section_name": "Desserts",
       "items": [
-        {
-          "name": "Chocolate Lava Cake",
-          "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
-          "price": 6.99,
-          "image": Image1
-        },
+        
         {
           "name": "Tiramisu",
           "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
